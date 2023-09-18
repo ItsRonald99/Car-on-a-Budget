@@ -86,7 +86,6 @@ df.to_csv('cars_table.csv')
 #implement a budget system where the user gives a budget and if the car's price is in that budget, it will display the car. 
 
 
-#print(cheapest_cars)
 
 
 
@@ -95,4 +94,5 @@ df.to_csv('cars_table.csv')
 
 
 
-#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+
+
