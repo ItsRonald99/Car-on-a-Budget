@@ -1,3 +1,4 @@
-# Kijiji Car Finding Tool
+# Kijiji Car Finding Tool (Deprecated)
 
-lorem ipsum
+This script is now deprecated because of changes that Kijiji made to their website code.
+
